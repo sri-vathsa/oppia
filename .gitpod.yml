@@ -1,1 +1,1 @@
-image: node:16-stretch
+image: public.ecr.aws/g7f0f4s4/gitpod/full:latest
