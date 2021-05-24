@@ -1,1 +1,1 @@
-image: public.ecr.aws/g7f0f4s4/gitpod/full:latest
+image: ubuntu:latest
