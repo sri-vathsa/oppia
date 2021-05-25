@@ -1,1 +1,1 @@
-image: node:latest
+image: ubuntu:bionic
