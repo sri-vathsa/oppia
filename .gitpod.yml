@@ -1,1 +1,1 @@
-image: ubuntu:groovy-20210115
+image: public.ecr.aws/g7f0f4s4/typescript-node:arm
