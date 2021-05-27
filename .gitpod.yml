@@ -1,1 +1,1 @@
-image: public.ecr.aws/g7f0f4s4/typescript-node:arm1
+image: ubuntu:16.04
